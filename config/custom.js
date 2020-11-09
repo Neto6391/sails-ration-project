@@ -69,7 +69,7 @@ module.exports.custom = {
 
   // The sender that all outgoing emails will appear to come from.
   fromEmailAddress: 'noreply@example.com',
-  fromName: 'The NEW_APP_NAME Team',
+  fromName: 'The ration Team',
 
   // Email address for receiving support messages & other correspondences.
   // > If you're using the default privacy policy, this will be referenced
@@ -88,8 +88,8 @@ module.exports.custom = {
   * (https://dashboard.stripe.com/account/apikeys)                          *
   *                                                                         *
   **************************************************************************/
-  // stripePublishableKey: 'pk_test_Zzd814nldl91104qor5911gjald',
-  // stripeSecret: 'sk_test_Zzd814nldl91104qor5911gjald',
+  stripePublishableKey: 'pk_test_51HlfBZDPXVx1kuEd2aWxQsSyGbGRTf83wFeWqHV5RvZP3oMl2zXgeBclkkCPVhaKTkFyM3pnR5IV0IqskzHi5nm200rtx1xGcd',
+  stripeSecret: 'sk_test_51HlfBZDPXVx1kuEdETvx1uEG16WouSpqtswRaPVBaIBuzajW2s8Een8U3P0vhe9KSDLTZwC63WRU0pkmpAuBHlFJ00KlkDjIn4',
   //--------------------------------------------------------------------------
   // /\  Configure these to enable support for billing features.
   // ||  (Or if you don't need billing, feel free to remove them.)
